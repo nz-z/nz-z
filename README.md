@@ -47,11 +47,13 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nz-z" />
+<img align="left" alt="nz-z's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nz-z" />
 
 </details>
 
-[website]: https://holistic-developer.com/
+[website]: the under construction ♥
+[youtube]: https://www.youtube.com/channel/UCF3Oghb6MPVD3krDvNtOeww
+
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
