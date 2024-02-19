@@ -1,18 +1,19 @@
-### Hello, I am Naz  ♥👋
+### Hello World, I'm Anna  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/nz-z/blob/main/code.gif?raw=true" width="500" height="320" />
-
-
-## I'm dabbling in software and trying to learn even more!!
-- 🎀 I am working on json and python.
-- 🐾 I am a student and I try to improve myself at home.
-- 🌺 I'm looking forward to learning many more programming languages.
-- 👯 I love you, never get bored and work.
-- 💟 If there is anything you want, you can always ask me.
-- ❄ Pronouns: She/Her
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-### Talk with me, don't hesitate:
+## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working on my first book.
+- 🌱 I’m currently learning React Native and Azure
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+
+
+### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -42,17 +43,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="nz. GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="nz. GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nz-z" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
 
-[website]: quello in costruzione ♥
-[youtube]: https://www.youtube.com/channel/UCF3Oghb6MPVD3krDvNtOeww
-[github]: https://github.com/nz-z
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[portfolio]: https://arsentieva.github.io/profile/
